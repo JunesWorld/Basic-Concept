@@ -55,3 +55,17 @@
 > > > - 논리적으로 조직화 시키기 위해 규칙을 적용하여 문제가 없는지 확인!
 > * DBA = Database Administrator
 > * DB Developer
+
+---------------------------------------
+
+# MySQL
+
+## 사용법
+> 포트 번호와 Password 꼭 기억할 것!!
+> > * create database (원하는 DB 이름);
+> > * create user '(원하는 DB 이름)'@'%' identified by '(원하는 DB 이름)';
+> > * create user '(원하는 DB 이름)'@'localhost' identified by '(원하는 DB 이름)';
+> > * grant all privileges on (원하는 DB 이름).* to '(원하는 DB 이름)'@'%';
+> > * grant all privileges on (원하는 DB 이름).* to '(원하는 DB 이름)'@'localhost';
+> > * flush privileges;
+> > * use (생성한 DB);

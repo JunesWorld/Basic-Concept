@@ -15,4 +15,13 @@
   3. User : Git 계정 / PW : Tocken 입력(Setting -> Develper Setting -> Personal Access Tockens -> Tockens(Classic) -> 저장 -> Expire -> 권한 모두 부여)
   4. Store in 체크! -> Finish -> Save & Fetch
 
+## Delete
+  1. Project Explorer -> Team -> Disconnect
+  2. Git Repository -> Data and History 체크!
 
+## Global User, Email Setting -> Terminal
+  - git config --global user.name "[your_name]"
+  - git config --global user.email "[your_email]"
+
+## Setting Check!
+- git config --list : user.name & email 잘 들어갔는지 확인!

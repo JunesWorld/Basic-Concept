@@ -23,3 +23,9 @@
 ## 작업 폴더 변경
 - [File] - [Switch Workspace] - [others]
 - 변경하고자 하는 폴더 선택
+
+## 실행
+- Ctrl + F11
+
+## 자동 완성
+- Ctrl + Space

@@ -28,4 +28,5 @@
 - Ctrl + F11
 
 ## 자동 완성
-- Ctrl + Space
+- [Preferences] - [Keys] - Content Assist
+- Ctrl + Cmd + Space

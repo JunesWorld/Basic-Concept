@@ -25,3 +25,6 @@
 
 ## Setting Check!
 - git config --list : user.name & email 잘 들어갔는지 확인!
+
+## Untracked File
+- git clean -fd

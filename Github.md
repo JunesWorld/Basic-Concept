@@ -57,3 +57,7 @@
 - 경로확인 : dir
 - clone 원하는 Directory로 Go!
 - git clone [Git Repository URL] 
+
+## Code
+- Cmd + Shift + P / Code 검색 명령 설치
+  - 

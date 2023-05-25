@@ -61,4 +61,40 @@ Images에 Link!
 
 > 남의 말이나 글에서 직접 또는 간접으로 따온 문장.  
 
-> 
+> 인용문을 작성하세요!
+> > 중첩된 인용문
+> > > 중첩된 인용문 1  
+> > > 중첩된 인용문 2  
+> > > 중첩된 인용문 3  
+
+# 인라인(Inline) 코드 강조
+
+CSS에서 `background` 혹은 `background-image` 속성으로 요소에 배경 이미지를 삽입할 수 있습니다.
+
+# 블록(block) 코드 강조
+
+```html
+<a href="https://naver.com" title="NAVER로 이동!" target="_blank">NAVER</a>   
+```
+```css
+.list > li {
+  position: absolute;
+  top: 40px;
+}
+```
+```javascript
+function func() {
+  var a = 'AAA';
+  return a;
+}
+```
+```bash
+$ git commit -m 'Study Markdown'
+```
+```plaintext
+동해물과 백두산이 마르고 닳도록
+하느님이 보우하사 우리나라 만세
+```
+# 표(Table)
+
+position 

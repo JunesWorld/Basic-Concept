@@ -52,3 +52,8 @@
 
 ## Untracked File
 - git clean -fd
+
+## Clone
+- 경로확인 : dir
+- clone 원하는 Directory로 Go!
+- git clone [Git Repository URL] 

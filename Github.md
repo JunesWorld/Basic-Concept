@@ -60,4 +60,9 @@
 
 ## Code
 - Cmd + Shift + P / Code 검색 명령 설치
-  - 
+  - 쉘 명령: PATH에 'code' 명령 설치
+  - Shell Command: Install 'code' command in PATH
+- VScode 재부팅
+- Terminal : 폴더 Directory로 Go!
+- `code . ` : 새로운 vscode에서 open
+- `code . -r ` : 현재 vscode 창에서 open

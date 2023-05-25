@@ -68,4 +68,13 @@
 - `code . -r ` : 현재 vscode 창에서 open
 
 ## Version 관리
-- `code . -r ` : 현재 vscode 창에서 open
+git-practice
+- git init
+- git add .
+- git commit -m '1' // version1
+- git log // version 확인
+- 파일 수정 / git add . /  git commit -m '2' & '3'
+- git reset --hard HEAD~1
+  - 한 버전 돌아가겠다 = 2번 버전으로 돌아감
+- git reset --hard ORIG_HEAD
+  - 3번 버전으로 돌아감

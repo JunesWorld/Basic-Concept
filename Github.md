@@ -86,11 +86,12 @@ git-practice
   - branch 목록 확인
   - 나가기 = q
   - git branch -a : 원격에 있는 branch 확인
-- git branch [branch 명] : branch 생성
-- git checkout [branch 명] : branch 변경
+- git branch [branch name] : branch 생성
+- git checkout [branch name] : branch 변경
 - 변경된 branch에서 작업
-  - 
-- git push origin signin
+  - git add .
+  - git commit -m 'message'
+- git push origin [branch name]
 
 [Git clone 후 Branch 가져오기]
 - git branch -r : branch 확인

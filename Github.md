@@ -115,3 +115,13 @@ git-practice
   - confirm merge
 
 ## 충돌
+다른 환경에서 작업 후 push 했을 때 수정 부분 내용이 달라 충돌할 수 있다. <br />
+- `git reset --hard HEAD~1`로 한 단계 복원
+- git pull
+  - 현재 변경 사항 vs 수신 변경 사항
+  - 위에서 선택 가능!
+- git status
+- git add .
+- git status
+- git commit -m '수정 완료'
+- git push origin master 

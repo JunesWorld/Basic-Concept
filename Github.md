@@ -66,3 +66,6 @@
 - Terminal : 폴더 Directory로 Go!
 - `code . ` : 새로운 vscode에서 open
 - `code . -r ` : 현재 vscode 창에서 open
+
+## Version 관리
+- `code . -r ` : 현재 vscode 창에서 open

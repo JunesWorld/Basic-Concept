@@ -113,3 +113,5 @@ git-practice
   - create pull request
   - Merge pull Request
   - confirm merge
+
+## 충돌

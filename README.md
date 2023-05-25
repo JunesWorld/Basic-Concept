@@ -97,4 +97,28 @@ $ git commit -m 'Study Markdown'
 ```
 # 표(Table)
 
-position 
+position 속성
+
+값 | 의미 | 기본값
+--|:--:|--:
+static | 기준 없음 | O
+relative | 요소 자신 | X
+absolute | 위치 상 부모 요소 | X
+fixed | 뷰포트 | X
+
+# 원시 HTML(Raw HTML)
+
+<u>동해물</u>과 <span style="text-decoration: underline;">백두산</span>이 마르고 닳도록<br/>
+하느님이 보우하사 우리나라 만세
+
+<a href="https://naver.com" title="NAVER로 이동!" target="_blank">NAVER</a>  
+
+<img width="70" src="https://heropy.blog/css/images/logo.png" alt="JUNE" />
+
+# 수평선(Horizontal Rule)
+
+---
+
+***
+
+___

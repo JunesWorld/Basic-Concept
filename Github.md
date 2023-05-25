@@ -78,3 +78,26 @@ git-practice
   - 한 버전 돌아가겠다 = 2번 버전으로 돌아감
 - git reset --hard ORIG_HEAD
   - 3번 버전으로 돌아감
+
+## Branch 관리
+- Terminal!
+  - master 
+- git branch
+  - branch 목록 확인
+  - 나가기 = q
+  - git branch -a : 원격에 있는 branch 확인
+- git branch [branch 명] : branch 생성
+- git checkout [branch 명] : branch 변경
+- 
+- git push origin signin
+
+
+## Merge
+- Github 저장소
+- Pull Requests
+  - new pull requests
+  - base:master <--- compare:signin
+  - create pull requests
+  - create pull request
+  - Merge pull Request
+  - confirm merge

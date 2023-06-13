@@ -125,3 +125,20 @@ git-practice
 - git status
 - git commit -m '수정 완료'
 - git push origin master 
+
+## NPX, Degit
+
+새로운 Terminal Open
+
+- 경로 확인
+  ```bash
+  ls
+  ```
+- 다운 받기 원하는 경로로 이동
+  ```bash
+  cd [원하는 경로]
+  ```
+- 설치
+  ```bash
+  npx degit [Github 이름]/[다운 받을 폴더 이름] [다운 시 원하는 폴더 이름]
+  ```

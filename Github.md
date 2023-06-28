@@ -142,3 +142,11 @@ git-practice
   ```bash
   npx degit [Github 이름]/[다운 받을 폴더 이름] [다운 시 원하는 폴더 이름]
   ```
+
+## Git Push Error
+
+Git: Can’t push refs to remote. Run ‘Pull’ first to integrate your changes.
+
+```bash
+git pull origin master
+```

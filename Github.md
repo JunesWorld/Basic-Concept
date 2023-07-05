@@ -150,3 +150,14 @@ Git: Can’t push refs to remote. Run ‘Pull’ first to integrate your changes
 ```bash
 git pull origin master
 ```
+
+## VScode 10k 해결방법
+
+현상 발생 이유 : .git 파일을 만들어 놓으면 발생
+
+해결방법
+```bash
+cd /Users/june
+ls -a
+rm -r -f .git
+```
